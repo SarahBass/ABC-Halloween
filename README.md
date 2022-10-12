@@ -5,11 +5,13 @@ A Spelling Game for Android Google Play
 
 UNDER CONSTRUCTION - NOT COMPLETE
 
+A Halloween spelling game to win prizes to decorate your spooky house and spooky garden. Inlcudes two neighbors to interact with that change hourly. 
+
 # Contents :
 
 > AM/PM Background Change
 
-> Hourly Changing Animations 
+> Hourly Changing Animations and Music
 
 > Earn Decorative Objects to Decorate Animated House
  
@@ -19,7 +21,7 @@ UNDER CONSTRUCTION - NOT COMPLETE
 
 > Clock 
 
-> Character Choices
+> Character Choices and Interactions
 
 
 ## Night and Day Mode based on Local Time
@@ -39,9 +41,9 @@ UNDER CONSTRUCTION - NOT COMPLETE
 <img src="https://github.com/SarahBass/ABC-Halloween/blob/main/images/flashcard.png" width="200" height="300" />
 
 
-## Hourly Changes on Animated Spooky Neighbors to Watch
+## Animated Spooky Neighbors Interact
 
-### Cute 90's Witch Neighbors
+### Cute Witch Neighbors
 
 <img src="https://github.com/SarahBass/ABC-Halloween/blob/main/images/middle.jpg" width="300" height="300" />
 
